@@ -137,7 +137,7 @@ if __name__ == '__main__':
             elif client.is_picking():
                 print('picking phase')
                 time.sleep(1)
-                client.pickchamp('Yuumi')
+                client.pickchamp('Sion')
         elif client.is_found():
             client.accept()
             continue
