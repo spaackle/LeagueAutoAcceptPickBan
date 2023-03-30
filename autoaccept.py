@@ -6,14 +6,10 @@ import time
 from requests import Session
 from urllib3 import disable_warnings, exceptions
 
-global in_game, banning, picking, isBanned, isPicked
+global in_game, isBanned, isPicked
 in_game = False
-banning = False
-picking = False
 isBanned = False
 isPicked = False
-ban_number = 0
-pick_number = 0
 
 class League:
     def __init__(self, league: str):
