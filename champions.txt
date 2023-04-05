@@ -17,7 +17,7 @@ Braum:201
 Caitlyn:51
 Camille:164
 Cassiopeia:69
-Cho'Gath:31
+ChoGath:31
 Corki:42
 Darius:122
 Diana:131
@@ -48,7 +48,7 @@ Jax:24
 Jayce:126
 Jhin:202
 Jinx:222
-Kai'Sa:145
+KaiSa:145
 Kalista:429
 Karma:43
 Karthus:30
@@ -57,10 +57,10 @@ Katarina:55
 Kayle:10
 Kayn:141
 Kennen:85
-Kha'Zix:121
+KhaZix:121
 Kindred:203
 Kled:240
-Kog'Maw:96
+KogMaw:96
 LeBlanc:7
 Lee Sin:64
 Leona:89
@@ -94,7 +94,7 @@ Qiyana:246
 Quinn:133
 Rakan:497
 Rammus:33
-Rek'Sai:421
+RekSai:421
 Rell:526
 Renekton:58
 Rengar:107
@@ -134,7 +134,7 @@ Urgot:6
 Varus:110
 Vayne:67
 Veigar:45
-Vel'Koz:161
+VelKoz:161
 Vex:711
 Vi:254
 Viego:234
